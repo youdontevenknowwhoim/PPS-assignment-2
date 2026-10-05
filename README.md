@@ -1,6 +1,3 @@
-# PPS-assignment-2
-C programming solutions for Assignment 2
-
 # PPS Assignment 2
 
 C programming solutions for Assignment 2 completed and tested on HackerRank.
